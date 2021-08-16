@@ -36,12 +36,12 @@
 ## Party
 
 ### Areas
-* Barrio del Carmen - All seasons
 * Zona Avda. Francia - All seasons
 * Zona del Puerto de Valencia (Marina Real) - Spring/Summer
 * Plaza Canovas - Autumn/Winter
+* Barrio del Carmen - All seasons
 
-### Clubs
+### Clubs (Probably Outdated - feel free to ask me)
 * Umbracle - All seasons [(Web)](http://umbracleterraza.com/umbracle/inicio/) [(Location)](https://www.google.com/maps/place/Umbracle/@39.4553001,-0.3535914,15z/data=!4m5!3m4!1s0x0:0x3c6b735327f4cfc8!8m2!3d39.4553001!4d-0.3535914) 
 * Marina Beach Club - Spring/Summer [(Web)](http://marinabeachclub.com/en/) [(Location)](https://www.google.com/maps/place/Marina+Beach+Club+Valencia/@39.4629187,-0.3217148,15z/data=!4m5!3m4!1s0x0:0x1332f6bc43386524!8m2!3d39.4629187!4d-0.3217148)
 * Las Animas - Autumn/Winter [(Web)](http://www.lasanimas.es/) [(Location)](https://www.google.com/maps/place/Las+Animas+Gastroclub/@39.4663873,-0.3734923,17z/data=!3m1!4b1!4m5!3m4!1s0xd6048b5eaddfff3:0xd344e8fb84f2f16c!8m2!3d39.4663873!4d-0.3713036)
